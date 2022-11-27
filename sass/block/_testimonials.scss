@@ -1,0 +1,22 @@
+.testimonials {
+    padding: 60px 0;
+    
+}
+
+.testimonials__row {
+    
+}
+.testimonials__heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.testimonials__title{
+    max-width: 452px;
+}
+.testimonials__sub-title{
+    max-width: 398px;
+    font-weight: 400;
+    letter-spacing: 1.15px;
+    color: #606060;
+}
